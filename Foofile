@@ -1,0 +1,17 @@
+site "file:///Users/makoto/"
+# site "https://github.com/"
+
+#foo "fc", path:"/Users/makoto/fc"
+
+#foo "fc", github:"haramako/fc"
+
+#foo "fc"
+
+#foo "hoge", git:"file:///Users/makoto/t/hoge", ref:"v0.0.1"
+#foo "hoge", path:"/Users/makoto/t/hoge"
+#path "/Users/makoto/fc"
+foo "test2"
+
+
+
+
