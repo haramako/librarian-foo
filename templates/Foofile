@@ -1,0 +1,5 @@
+site "https://github.com/librarian-foo-catalog"
+
+# foo "test1"
+# foo "test1", ">= 0.0.1"
+# foo "test1", github: "haramako/librarian-foo-test1"
